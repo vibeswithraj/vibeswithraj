@@ -82,12 +82,6 @@ My workflow emphasizes planning, iteration, and reliable delivery — always cod
 
 ---
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/vibeswithraj/vibeswithraj/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌊 Thanks for Visiting!
 
 <p align="center">
