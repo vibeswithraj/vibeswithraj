@@ -1,8 +1,29 @@
-# 👋 Hey, I'm Raj Prajapati  
+<div align="center">
+
+# Hi there 👋 I'm Raj Prajapati
 ### 💻 Full-Stack Developer | Product Strategist | Builder of Scalable Web Experiences  
 
-I craft **robust, end-to-end web applications** that balance performance, scalability, and design.  
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Crafting+Premium+User+Experiences;React+%7C+Next.js+%7C+Node.js+Developer" />
+
+<br/>
+
+### 🚀 I craft **robust, end-to-end web applications** that balance performance, scalability, and design.  
 From **React.js dashboards** to **Node.js APIs**, I turn ideas into clean, reliable software that solves real problems.
+
+
+<p align="center">
+  <a href="https://github.com/vibeswithraj">
+    <img src="https://img.shields.io/github/followers/vibeswithraj?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/vibeswithraj">
+    <img src="https://img.shields.io/github/stars/vibeswithraj?affiliations=OWNER&style=for-the-badge" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=vibeswithraj&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=vibeswithraj&style=for-the-badge" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -14,10 +35,27 @@ From **React.js dashboards** to **Node.js APIs**, I turn ideas into clean, relia
 
 ---
 
-## 🧠 Tech Stack
-| Frontend | Backend | Database | Tools |
-|-----------|----------|-----------|--------|
-| React.js, Next.js, HTML5, CSS3 | Node.js, Express.js | MongoDB, SQL | GitHub, Firebase, Copperx, Stripe |
+# 🛠 Tech Stack
+
+## Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,html,css" />
+</p>
+
+## Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
 
 ---
 
@@ -65,33 +103,57 @@ My workflow emphasizes planning, iteration, and reliable delivery — always cod
 
 ---
 
-## 📊 GitHub Stats
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibeswithraj&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibeswithraj&layout=compact&theme=tokyonight)
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vibeswithraj&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibeswithraj&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibeswithraj&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧩 Skill Badges
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Copperx](https://img.shields.io/badge/Copperx-FF6F00?style=for-the-badge&logo=stripe&logoColor=white)
+# 🏆 Achievements
+
+✅ Built production-level NFT systems  
+✅ Developed scalable full-stack applications  
+✅ Designed premium UI/UX experiences  
+✅ Integrated AI workflows into web apps  
+✅ Delivered responsive enterprise dashboards  
 
 ---
 
-## 🌊 Thanks for Visiting!
+# 📚 Currently Learning
+
+- System Design
+- Real-time Architectures
+- Blockchain Development
+- Performance Optimization
+- Advanced Next.js Patterns
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+  <a href="https://www.linkedin.com/in/vibeswithraj">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vibeswithraj09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/vibeswithraj">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vibeswithraj&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+---
 
-<p align="center">
-  ✨ *“Building Scalable & Creative Platforms — one line of code at a time.”* ✨
-</p>
+<div align="center">
+
+### ✨ "Code is not just functionality — it's an experience."
+
+</div>
